@@ -266,7 +266,7 @@ export function KYCFlow({ open, onOpenChange, currentStatus, onSubmit }: KYCFlow
                     Verified Successfully!
                   </h3>
                   <p className="text-sm text-muted-foreground mb-6">
-                    You can now invest in tokenized properties on EstateToken.
+                    You can now invest in tokenized properties on RNTBNB.
                   </p>
                   <Button variant="gold" onClick={() => onOpenChange(false)}>
                     Start Investing
